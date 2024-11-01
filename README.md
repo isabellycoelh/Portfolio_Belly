@@ -3,7 +3,7 @@
 
 ## Sobre Mim
 
-Olá! Meu nome é [Seu Nome] e sou aluna da segunda série do ensino médio. Estou apaixonada por obstetrícia e quero compartilhar conhecimentos e informações sobre essa área tão importante da saúde.
+Olá! Meu nome é Isabelly e sou aluna da segunda série do ensino médio. Estou apaixonada por obstetrícia e quero compartilhar conhecimentos e informações sobre essa área tão importante da saúde.
 
 ## Objetivo
 
@@ -18,11 +18,8 @@ Neste repositório, você encontrará informações sobre obstetrícia, incluind
 
 Siga-me nas minhas redes sociais para mais conteúdos e atualizações:
 
-- **Instagram**: [Seu Instagram](https://instagram.com/seu_perfil)
-- **Facebook**: [Seu Facebook](https://facebook.com/seu_perfil)
-- **LinkedIn**: [Seu LinkedIn](https://linkedin.com/in/seu_perfil)
-- **WhatsApp**: [Seu WhatsApp](https://wa.me/seu_numero) (clique para me enviar uma mensagem!)
-- **YouTube**: [Seu Canal no YouTube](https://youtube.com/c/seu_canal)
+- **Instagram**: [isa_coelhox](https://www.instagram.com/isa_coelhox?utm_source=qr&igsh=MW1hbmY5c3Q4b2tqbw==)
+- **WhatsApp**: (43 999888494) (clique para me enviar uma mensagem!)
 
 ## Como Contribuir
 
